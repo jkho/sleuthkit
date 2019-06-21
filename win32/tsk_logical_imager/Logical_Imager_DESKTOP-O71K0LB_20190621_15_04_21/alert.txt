@@ -1,0 +1,879 @@
+Drive	Extraction Status	Rule Set Name	Rule Name	Description	Filename	Path
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Blue hills.jpg	Documents and Settings/All Users/Documents/My Pictures/Sample Pictures/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Sunset.jpg	Documents and Settings/All Users/Documents/My Pictures/Sample Pictures/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Water lilies.jpg	Documents and Settings/All Users/Documents/My Pictures/Sample Pictures/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Winter.jpg	Documents and Settings/All Users/Documents/My Pictures/Sample Pictures/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	png rule	find png in Google folder	128.png	Documents and Settings/John/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2_0/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	png rule	find png in Google folder	128.png	Documents and Settings/John/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.14_0/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	png rule	find png in Google folder	16.png	Documents and Settings/John/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.14_0/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	png rule	find png in Google folder	32.png	Documents and Settings/John/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.14_0/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	png rule	find png in Google folder	48.png	Documents and Settings/John/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.14_0/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	png rule	find png in Google folder	128.png	Documents and Settings/John/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/6.1.3_0/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	png rule	find png in Google folder	24.png	Documents and Settings/John/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/6.1.3_0/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	png rule	find png in Google folder	48.png	Documents and Settings/John/Local Settings/Application Data/Google/Chrome/User Data/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/6.1.3_0/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	016e5609d285fd7794b3319433dcc7f0_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	05072011-12v[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	05072011-12v[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	141674726[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	150px-Date_mark_of_Nagasaki_bomb[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	150px-Fat_man[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	150px-HiroshimaNakajimaAreaInRuins[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	150px-Nagasakibomb[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	150px-Nagasaki_temple_destroyed[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	157242_687787622_1662099435_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	pccleaner[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Santorum_2012_090f5--606x404[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	seek%3D330-Hiroshima_Aftermath_1946_USAF_Film.ogg[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	BING_websearch_2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bkgd-input[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bk_2x1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	1C292392A3EB692F156893FF1C2DE[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Hasib_Hussain_leaving_Boots_the_Chemist%2C_King%27s_Cross_railway_station%2C_9_am_July_7%2C_2005[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	32px-National_Park_Service_9-11_Statue_of_Liberty_and_WTC_fire[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	cta[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	di_kamar_kos1_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	image_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	image_normal[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	image_normal[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	jets.124[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	c798327a75160bf450545fb232541a9c_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	CADCTS12_Lifestyle_NonEventRetailPlsUp_Lease_Ends040212_STD728x90[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[4].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[4].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[5].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	me_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	shop_a_thon[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	r%2010_1332249960[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	reader_128[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Rhoda2_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-INTEL-COGNITIVE-Cole[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Russell_square_police_road[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	221164812[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	221915739[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	222489221[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	223761935[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	224847491[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	225178001[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	311x112_turbotax_123111[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	65514524717IYW_Refugee_300x250[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	huttlin-spherical-engine-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	slider_shopathon_2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	slider_shopathon_2[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	slider_shopathon_4[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	227074218[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	210952305[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	211817_100001917244384_1255005396_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	217278398[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	217977711[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-7_7_Hyde_Park_090712[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-AvoidLondon77[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Essais_nucleaires_manif[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Fat_man[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	300px-080125-f-3927s-040[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	80px-Osama_bin_Laden_portrait[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	23160_1495027135_2835_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	VW-ART%20032_1332191040[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	what-if-black-hole-100c60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	dubstep-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Earns_Sears_0b09f[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	EE84918982EF58BCA59F613E0E194[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	cb0cc7f96dc9733629d9f79f399e69d9_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	CHRISTMASDUCKS09_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	claritin_origami_160x600[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	37c16c7c5dc576c9dce14c1f83864611_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	40b2b7f2df5f4eb6d5e8503aec514718_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	41538[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	43F470CB6189C992711EF12EE3D79[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	5-future-inventions-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	51F2043942C51856F795A4E2AB1DD[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	737b2acd-289b-4daa-b7fc-d08360e07b15[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	17010468415310164493[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	170px-Anwar_al-Awlaki_sitting_on_couch%2C_lightened[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	173773_1310948551_302661839_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	1cb4d0ca-1601-4bba-ae0d-bd557b5de4d0[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	2-cdc_tipsfromsmokers_web_annette_300x250[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	20-scrabble-words-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	200px-AtomicEffects-p7b[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	which-gadget-first-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	5c478d5756ac23c2b904c291ef518d0a_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	00-allen-iverson-thumb3[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	0000012f-5f13-c936-3425-feb19029e57f[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	00000133-53f0-f70d-6f76-ac3094ca2e31[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	0620_thumb[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	14a3a40c45389662f602736b1fd047a8_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	200px-Kings_Cross_press_gazebo_1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	madmenads-mensuits-sidebyside2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	n651635256_7096482_738747_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	navtop_sprite[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	dan-quayle.thumbnail_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	dbd-feature-bg[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Santorum_2012_090f5--606x404[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	493915275017IYW_Refugee_160x600[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	6A7160BFADB245A27DB89658EBB80[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	af0c3e09abb278bbc90214b60e4b14bc_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	AP100105029431[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	apple-simulator-bottom[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	seek%3D152-Medical_aspect%2C_Hiroshima%2C_Japan%2C_1946-03-23%2C_342-USAF-11034.ogv[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	signupnow[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	job-interview-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	grail-engine-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	r%2010_1332249960[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	221007703[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	225250338[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	226246505[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	226258046[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	227733545[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	tstitch[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	tstitch[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	slider_shopathon_3[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	SmallerHeadshot_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	2011-03-31-170051_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	2012-03-19T153759Z_01_TOR901_RTRIDSP_3_USA-FLORIDA-SHOOTING[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	2012-03-19T153759Z_01_TOR901_RTRIDSP_3_USA-FLORIDA-SHOOTING[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	209248890[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	210537861[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	211347932[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	213456305[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	215190641[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	216684234[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-2001-12-13-frame-grab-DoD[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Anaconda-helicopter[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-July_7%2C_2005_London_bombings_CCTV[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Nagasaki_1945_-_Before_and_after_%28adjusted%29[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Osama_bin_Laden_compound1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-The_Guardian_al-Qaeda_recruitment[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Trapped_underground[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	caab930b9f5b6ca1d5cfc1c51ffa8275_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	capehart_145x100[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	cf8f704e508b8e62895afd02c7dcdc55_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Tony_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toy-picture-300x180[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	36486148[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	370394_100000334475865_1560551940_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	371606_645586994_1501753644_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	3A3E63329DD81A22B8F5A9E86A6C[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	422[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	428173_370740102936871_100000026549028_1446809_1858481404_n_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	88x31-wp-hip[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	250px-B-29_Enola_Gay_w_Crews[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	250px-Blair_G8_July7th05[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	300px-US_PsyOps_leaflet[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[4].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[5].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bnlo2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ffb6c34c75b1b8d80d609189e80edfb7_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	fios_2012_mz1_masconectada_en_728x90[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	flash_128[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	554912_Dove_300x250_v3[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	1	no-set-name	jpg rule	find all jpg files	6A7160BFADB245A27DB89658EBB80[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	7FF01A5DD013856C68A91BDAED4913[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	korea_today_mainbanner[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	170px-Kenya_bombing_1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	170px-Omar_Abdel-Rahman[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	1Q12_COMN_GM_BRD_WIF_COMC14493-Q1-SB-728x90[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	200px-Afficheamericaine2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	200px-Agnew_Leaflet[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Sedan_Plowshare_Crater[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	00-peyton-manning-thumb[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	0000012d-1b4f-df66-3cbd-47e727e6f531[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	062_PSA_ALL_NAT_ALL_CharityWater_728x90_2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	1-PRG_Reflect60_728x90[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	11400944-cf36-48a4-ad54-35201246a1a0[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	128px-Agnew_StrikeOrderHiroshima[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	128px-Agnew_StrikeOrderNagasaki[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	141674726[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	150px-The_patient%27s_skin_is_burned_in_a_pattern_corresponding_to_the_dark_portions_of_a_kimono_-_NARA_-_519686[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	160px-Headlines_london_bombing_7_july_2005_Waterloo_station[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Fios-195x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Fios-75x75[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	portal2_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	QUPANq5X_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	slider_shopathon_1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	slider_shopathon_4[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bg_top[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bk_1x1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bk_3x1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	225914382[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	311x112_sonicwall_031912[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	CDAB2F44A1591D2B308C20C6C15375[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toles05152011forweb[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	AP120305124394[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	c86f9e1b992bc327cfc0c175d5235383_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	capehart_145x100[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	cd57f6fe868c71fcb3621b1c82ce8a41_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[4].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[5].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	TV_Real_Time_With_Bill_Maher_07307[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	TV_Real_Time_With_Bill_Maher_07307[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	videos-300x180-40425[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	VW-ART%20032_1332191040[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	D1AD48CD35ECD4DDD8C228DC5DEF0[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	d4bf9f89-c26e-4f2a-a077-a7a0506515d5[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	failover[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	212932944[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	216583907[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	218203909[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	219505662[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	219506829[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-A-Bomb_Dome[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Abu_Ayyub_al-Masri_1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Boeing_B-29A-45-BN_Superfortress_44-61784_6_BG_24_BS_-_Incendiary_Journey[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Obama_and_Biden_await_updates_on_bin_Laden[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Osama_Bin_Laden_marked_deceased_on_FBI_Ten_Most_Wanted_List_May_3_2011[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-SS-24_silo_destruction[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[4].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[4].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	A__163__normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	background-columnist-header[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	311x112_springcleaning_031912[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	369006_757787911_2002710944_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	371231_1291626230_1070395877_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	6[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	lock-picking-6-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	170px-Hirgrnd1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	170px-Khalid_Shaikh_Mohammed_after_capture[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	173988_100000141894272_853260570_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	227725712[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	228285185[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	300px-Hamid_Mir_interviewing_Osama_bin_Laden[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	cover1_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	nuclear-bomb-1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	2c1c638f2f077de9219d6d756f5b2013_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	300px-Atomic_bombing_of_Japan[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	xp_ie8_stp1_v2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	xp_ie8_stp2_v2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	xp_ie8_stp2_v2[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	XV2_124[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	failover[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	133px-Nagasaki_Ground_Zero_C2117[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	7467C1E4817F836A63EBCC3E4E990[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	7731bd9abc3b179d449ba024fbcfaca5_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	a03ab036c5f126e1dc7ec3d71a5312f0_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	alternator-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	anne-applebaum_80x72[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	1a30543b252288da573a71950c1a7cd9_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	00-usf-cheerleader-thumb[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	0000012e-b92c-1983-69fc-f58c1d92e3bf[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	031912_topspot_2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	031912_topspot_5[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	100_2744_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120210103942-kim-jong-un-handout-story-body[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	150px-Hiroshima_Street_Scene_with_injured_Civilians[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	150px-Sumiteru_Taniguchi_back[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	footer_logo[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	seek%3D356-Physical_damage%2C_blast_effect%2C_Hiroshima%2C_1946-03-13_~_1946-04-08%2C_342-USAF-11071.ogv[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Anl5LDNCMAAE9Za_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	170px-FEMA_-_4235_-_Photograph_by_Andrea_Booher_taken_on_09-28-2001_in_New_York[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Russell_square_ambulances[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	226198846[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	APTOPIX_Million_Hoodie_March_0d824[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bnl01[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	quantum-suicide-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	slider_shopathon_1[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	videos-300x180-30635[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	windowstipsandtricks[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	xp_ie8_stp1_v2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	lizcoe-spring[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Logo_Corriere_C_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	madmenads-mensuits-sidebyside2[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	pockets_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	210954351[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	211396_100000902713524_6944976_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	215998238[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	219113433[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220991260[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-AnschalgInZahran1996_KhobarTower[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Osama_bin_Laden_portrait[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-TrFlagsmall1b[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-UA_Flight_175_hits_WTC_south_tower_9-11_edit[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	223566018[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	224134109[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	226169773[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	c82906159fefb782efe726303aa0c87a_150x150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[4].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	image_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	image_normal[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	image_normal[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ThumbnailServer2[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[3].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[4].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	tstitch[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	tstitch[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	226561668[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	227407978[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	229101158[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	download-horizontal-win[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	dragus_close_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	E8642501C53129730BF97D5AA60CA[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	f0baf220-1cf6-4c92-9958-b89f55ed164e[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	GOP_Budget_07eda[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	GOP_Budget_07eda[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Head-shot-for-twitter-profi_normal[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	slider_shopathon_3[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	240px-An_Al_Qaida_recruit_dreams_about_Osama_bin_Laden[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	300px-Agnew_HiroshimaAircraft[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	30px-Heinkel_He_111_during_the_Battle_of_Britain[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	339[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	351879C0F18A36692ECB467B102D[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	default[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	180px-Caledonian_Road_tube_station_closed[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	2-cdc_tipsfromsmokers_web_shawn_300x600[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	200px-Anti-Japan2_University_of_Minnesota_Libraries_scan[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	200px-AtomicEffects-p7a[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	3977c60a-8a46-4485-b596-ec2d22bd2302[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	50032_100000739427850_2106830537_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	61B856AD451E23F08A9C19C79DFC95[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	imagenewsfetcher[2].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img_toolbar_promo[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	background-mosaic[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	161654_100001243492837_818218510_q[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	300px-Nagasakibomb[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Tavistock7705[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-Trident_II_missile_image[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	220px-W87_MX_Missile_schematic[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	eccentric-hidden-passage-ch150[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	800px-NagasakiHypocentre[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	88x31-wp-lung[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	90px-BigBenAtDusk[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	suction-cup-marks-100x60[1].jpg	Documents and Settings/John/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	110515061023_nkorea_iran_nuke_304x171_afp.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120316175927_br_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120317121811_video_game_awards_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120317152217_ipad3_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120318121303_syria_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120318123610_child_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120318170615_blind_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	1	no-set-name	jpg rule	find all jpg files	120319112336_momaba_footballer_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319170009_syria_charity_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320121017_foreign_fighter_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320121457_shenouda_profile_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321111610_dubai_art_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321113014_wedding_dress_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321130404_buenos_aires_trash_cans_336x189_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319112336_momaba_footballer_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/120320_us_iran_israel_strike_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	16209bc810c78def61e2e705965d71bd_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	20-scrabble-words-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	2c1c638f2f077de9219d6d756f5b2013_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	385a1fdda1ac4e6be9d7c2ca63840d2e_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	40b2b7f2df5f4eb6d5e8503aec514718_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	41538.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	1	no-set-name	jpg rule	find all jpg files	5-future-inventions-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	997b0cded28638d35d709fc8f1639108_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	a03ab036c5f126e1dc7ec3d71a5312f0_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	sysk-nl-promo-728x90.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/ad_data_005/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	d8ab78206832bc15658aae56634b5aca_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	c09a07eaabbf1a194dc812a20460c60d_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	caab930b9f5b6ca1d5cfc1c51ffa8275_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	cb0cc7f96dc9733629d9f79f399e69d9_150x150.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	dubstep-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	1	no-set-name	jpg rule	find all jpg files	eccentric-hidden-passage-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	grail-engine-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	eccentric-hidden-passage-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	job-interview-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	lust-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	quantum-suicide-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	5-future-inventions-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	alternator-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toy-picture-300x180.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	videos-300x180-30635.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	videos-300x180-40425.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	war-tech-dirty-bomb-200.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	what-if-black-hole-100c60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	which-gadget-first-100x60.jpg	Documents and Settings/John/My Documents/articles/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120315041151-france-shooting-soldiers-montauban-video-tease.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319011355-france-shooting-gallery-1-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319011355-france-shooting-gallery-1-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319011630-france-shooting-gallery-2-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319011630-france-shooting-gallery-2-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319011801-france-shooting-gallery-3-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319011801-france-shooting-gallery-3-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319012120-france-shooting-gallery-4-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	1	no-set-name	jpg rule	find all jpg files	120319012120-france-shooting-gallery-4-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319012120-france-shooting-gallery-4-video-tease.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319013947-france-shooting-gallery-6-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319013947-france-shooting-gallery-6-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319021418-france-shooting-gallery-7-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319021418-france-shooting-gallery-7-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319032828-toulouse-shooting-police-story-body.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319032828-toulouse-shooting-police-video-tease.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319092715-pkg-bittermann-shooting-in-toulouse-france-0000.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319092715-pkg-bittermann-shooting-in-toulouse-france-_002.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319115802-france-shooting-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319115802-france-shooting-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319122103-france-shooting-sarkozy-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319122103-france-shooting-sarkozy-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319122103-france-shooting-sarkozy-video-tease.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320032446-france-shooting-woman-crys-march-20-video-tease.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320040857-france-flowers-video-tease.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320092712-france-guard-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320092712-france-guard-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320095805-pkg-magnay-france-school-mourning-00004518-stor.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320103329-ctw-intv-camus-expert-on-french-extremism-00000.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	1	no-set-name	jpg rule	find all jpg files	120321062355-magnay-france-police-raid-00022007-video-tease.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321101832-france-toulouse-siege-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321101832-france-toulouse-siege-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321103931-france-stad-off-02-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321103931-france-stad-off-02-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321105727-magnay-france-shooting-siege-00020925-story-bod.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321110023-chance-israel-france-shooting-00011008-story-bo.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321110055-intv-france-shooting-terror-expert-00001122-sto.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319012120-france-shooting-gallery-4-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321062355-magnay-france-police-raid-00022007-video-tease.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321115927-france-shooting-paratrooper-coffin-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321110451-bittermann-france-shooting-impact-00025912-stor.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321115927-france-shooting-paratrooper-coffin-horizontal-g.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	1	no-set-name	jpg rule	find all jpg files	120321115927-france-shooting-paratrooper-coffin-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120204-france-shooting-sarkozy-speech-21-march-horizon.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120204-france-shooting-sarkozy-speech-21-march-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120429-france-shooting-police-seige-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120429-france-shooting-police-seige-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120845-france-shooting-residents-evacuated-horizontal-.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120845-france-shooting-residents-evacuated-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321121125-france-shooting-irael-coffin-horizontal-gallery.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321121125-france-shooting-irael-coffin-topics.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321123120-france-montauban-attack-story-body.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	avatar92.jpg	Documents and Settings/John/My Documents/articles/toulouse_shootings_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	110515061023_nkorea_iran_nuke_304x171_afp.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120316175927_br_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120317121811_video_game_awards_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120317152217_ipad3_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120318121303_syria_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120318123610_child_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120318170615_blind_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	1	no-set-name	jpg rule	find all jpg files	120319112336_momaba_footballer_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319170009_syria_charity_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320121017_foreign_fighter_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320121457_shenouda_profile_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321111610_dubai_art_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321113014_wedding_dress_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321130404_buenos_aires_trash_cans_336x189_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319112336_momaba_footballer_144x81_bbc_nocredit.jpg	Documents and Settings/John/My Documents/articles/امريكيين قولهم ان تدريبات_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	emailicon.jpg	Documents and Settings/John/My Documents/articles/歹戲拖半年 高凌風、金友莊早離了_files/top_recommanded_data/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	banner_eznex_190x30.jpg	Documents and Settings/John/My Documents/articles/読む楽しさ、膨らむ・広がる新紙面　_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	headder984.jpg	Documents and Settings/John/My Documents/articles/読む楽しさ、膨らむ・広がる新紙面　_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	102936553.jpg	Documents and Settings/John/My Documents/articles/카라, 아이유 나무로아미에 제치고 오리콘 2위 진입_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	201111180849011002_1.jpg	Documents and Settings/John/My Documents/articles/카라, 아이유 나무로아미에 제치고 오리콘 2위 진입_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	201112280744770412_1.jpg	Documents and Settings/John/My Documents/articles/카라, 아이유 나무로아미에 제치고 오리콘 2위 진입_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	201112291623421002_1.jpg	Documents and Settings/John/My Documents/articles/카라, 아이유 나무로아미에 제치고 오리콘 2위 진입_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	20120309082726_184337_580_207.jpg	Documents and Settings/John/My Documents/articles/카라, 아이유 나무로아미에 제치고 오리콘 2위 진입_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	201203210722391001_1.jpg	Documents and Settings/John/My Documents/articles/카라, 아이유 나무로아미에 제치고 오리콘 2위 진입_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	htm_20120222164242c010c011.jpg	Documents and Settings/John/My Documents/articles/카라, 아이유 나무로아미에 제치고 오리콘 2위 진입_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	16209bc810c78def61e2e705965d71bd_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	1c2a0da649650d64ff6126af9794e02c_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	20-scrabble-words-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	2c1c638f2f077de9219d6d756f5b2013_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	37c16c7c5dc576c9dce14c1f83864611_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	41538.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	5-future-inventions-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	5c478d5756ac23c2b904c291ef518d0a_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	6a3e5ed45017ac939243e9d9f3b84eae_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	adServer.jpeg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/ad_data_004/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	alternator-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	dubstep-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	eccentric-hidden-passage-ch150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	grail-engine-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	quantum-suicide-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toy-picture-300x180.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	videos-300x180-30635.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	videos-300x180-40425.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	war-tech-dirty-bomb-200.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	what-if-black-hole-100c60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	which-gadget-first-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	96e91d8f5dca4ea3a84cfd655a0a4f51_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	adServer.jpeg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/ad_data/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	adServer.jpeg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/ad_data_003/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	c09a07eaabbf1a194dc812a20460c60d_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	c82906159fefb782efe726303aa0c87a_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	caab930b9f5b6ca1d5cfc1c51ffa8275_150x150.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	job-interview-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	lock-picking-6-100x60.jpg	Documents and Settings/John/My Documents/Downloads/dirty-bomb_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319011801-france-shooting-gallery-3-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319011801-france-shooting-gallery-3-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319012120-france-shooting-gallery-4-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319012120-france-shooting-gallery-4-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319012120-france-shooting-gallery-4-video-tease.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319013947-france-shooting-gallery-6-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319013947-france-shooting-gallery-6-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319021418-france-shooting-gallery-7-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319021418-france-shooting-gallery-7-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319032828-toulouse-shooting-police-video-tease.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319092715-pkg-bittermann-shooting-in-toulouse-france-0000.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319115802-france-shooting-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319115802-france-shooting-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319122103-france-shooting-sarkozy-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120319122103-france-shooting-sarkozy-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322062726-france-siege-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322091812-toulouse-thursday-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322091812-toulouse-thursday-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322093919-pkg-rivers-france-shooting-standoff-ends-000238.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322104342-police-thurs2-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322104342-police-thurs2-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322105715-sidner-afghanistan-france-suspect-00004703-stor.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322113848-exp-point-townsend-french-shooter-00002001-stor.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322115843-france-shooting-french-interior-minister-march-.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322115843-france-shooting-french-interior-minister-ma_002.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322120338-france-toulouse-scene-police-story-body.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322120628-france-shooting-assult-ends-march-22-horizontal.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322120628-france-shooting-assult-ends-march-22-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322120939-france-shooting-assult-march-22-horizontal-gall.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320032446-france-shooting-woman-crys-march-20-video-tease.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321115927-france-shooting-paratrooper-coffin-horizontal-g.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322062726-france-siege-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322120939-france-shooting-assult-march-22-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320092712-france-guard-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120320092712-france-guard-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321053935-france-standoff-video-tease.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321074553-france-school-shooting-video-tease.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321101832-france-toulouse-siege-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321101832-france-toulouse-siege-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321103931-france-stad-off-02-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321103931-france-stad-off-02-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321110023-chance-israel-france-shooting-00011008-story-bo.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321110451-bittermann-france-shooting-impact-00025912-stor.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120429-france-shooting-police-seige-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120429-france-shooting-police-seige-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120845-france-shooting-residents-evacuated-horizontal-.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120845-france-shooting-residents-evacuated-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321121125-france-shooting-irael-coffin-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322035311-france-shooting-sarkozy-funeral-video-tease.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	avatar92.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321115927-france-shooting-paratrooper-coffin-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120204-france-shooting-sarkozy-speech-21-march-horizon.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120204-france-shooting-sarkozy-speech-21-march-topics.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321120429-france-shooting-police-seige-video-tease.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120321121125-france-shooting-irael-coffin-horizontal-gallery.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120322121330-pkg-rivers-toulouse-terror-suspect-background-0.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	120323_459bahamas_300x250-CNN.jpg	Documents and Settings/John/My Documents/Downloads/french killings suspect_files/sitecnncnn_pagetypemmstcnn_position300x150_rgtcnn_rollupworldpag/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	3548_25eb6224-399b-4a73-81b4-9b4daa13691a.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/categoryhtml_data/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	3549_68a9b334-be16-4a69-bf6d-2431be595dda.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/categoryhtml_data/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	3573_65f96ff1-876e-4df7-8573-e238c344ff17.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/categoryhtml_data/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toulouse-02.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toulouse-03.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toulouse-04.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toulouse-05.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toulouse-06.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toulouse-intro.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_55241944_55241943.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59181608_afrikaner-blood-00-promo-62.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59234780_59234779.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59236042_jex_1358046_de08-1.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59236236_014323431-1.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59240085_zayn_getty144.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59248059_014078413-1.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59248312_trayvo_martin_memorial.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59252861_59252725.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	itunes_button_120x30.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	man_reMark_300x250.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	toulouse-01.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59228019_cigarlady-cc.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59233489_jex_1357344_de41-1.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59239368_siege.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17473207_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	4f19d4b808e36.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/impsc_data/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	4f19d4bb3ed60.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/impsc_data/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	4f19d50bf4209.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/impsc_data/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	itunes_button_120x30.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59248312_trayvo_martin_memorial.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	SMART_UNCAR_JPG_99LEASE_ANTHEM_728x90%20REVISED.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59181608_afrikaner-blood-00-promo-62.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59228019_cigarlady-cc.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59230821_014323435-1.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59233489_jex_1357344_de41-1.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59234780_59234779.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59240085_zayn_getty144.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59241242_59241241.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	_59242044_014324066-1.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	SMART_UNCAR_JPG_99LEASE_ANTHEM_160x600%20REVISED.jpg	Documents and Settings/John/My Documents/Downloads/world-europe-17476996_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	00000000000000.jpg	Documents and Settings/John/My Documents/Downloads/جهاد_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	264206_226200790743534_100000608435753_721910_5444813_n.jpg	Documents and Settings/John/My Documents/Downloads/جهاد_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	710103.jpg	Documents and Settings/John/My Documents/Downloads/جهاد_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ade6501.jpg	Documents and Settings/John/My Documents/Downloads/جهاد_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	nashra.jpg	Documents and Settings/John/My Documents/Downloads/جهاد_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	d665ab9036fe786a6e753a24f69b8dfe.jpg	Documents and Settings/John/My Documents/Downloads/جهاد_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C4_R4.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	adv01.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	adv02.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	adv03.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	backg_22.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	down.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C11_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C13_R4.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C15_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C17_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C18_R1.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C19_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C1_R16.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C1_R4.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C1_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C1_R6.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C1_R7.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C20_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C21_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C22_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C25_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	wa31.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C7_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C8_R1.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C8_R1111.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C8_R2.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C8_R3.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	index_C9_R5.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	link.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	parts.jpg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	showimg_005.jpeg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	showimg_006.jpeg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	showimg.jpeg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	showimg_002.jpeg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	showimg_003.jpeg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	showimg_004.jpeg	Documents and Settings/John/My Documents/Downloads/حسين الأسدي، الخميس، رئيس إقليم_files/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	NA-BD048_YEMENS_G_20091227224359.jpg	Documents and Settings/John/My Documents/hidden/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Osama bin Laden Speech.jpg	Documents and Settings/John/My Documents/hidden/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	090124_aq-arab_aqsa04-thumb.jpg	Documents and Settings/John/My Documents/private/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	980820-O-0000X-001.jpg	Documents and Settings/John/My Documents/private/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	iraq_pol96.jpg	Documents and Settings/John/My Documents/private/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Osama bin Laden With Gun.jpg	Documents and Settings/John/My Documents/private/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	training.jpg	Documents and Settings/John/My Documents/private/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	161358_903430047_1503451286_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	161529_1276501931_1087568078_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	174052_100003468065162_2074346013_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	32px-National_Park_Service_9-11_Statue_of_Liberty_and_WTC_fire[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	48985_1486532298_1185284000_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[5].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[6].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	tstitch[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	gfs_federal[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[2].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[3].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[4].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[2].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bg2[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/4K0CXT3M/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	157162_1508560161_1630053775_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	174167_1456026868_1370274343_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	41392_100001541809099_1869_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	50492_214691331869_6574323_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	banerzine88x31[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	newsflash_logo[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	sb_ad[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[2].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[3].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[4].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[5].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[6].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[7].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[8].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[9].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/KVH953VG/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	370493_100000456832719_708051567_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	50076_1445859781_1070865742_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	50cals_bullets_small[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	anokorganman-1.thumbnail[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ta_520n-tfb-tm[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[2].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[3].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[4].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[5].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[6].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[7].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[8].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/OM25XF75/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	200px-Anarchistcookbookdsfg[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	41708_100002199130944_1628912432_q[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ame_8vc-tfb-tm[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	freeallpp.thumbnail[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	publishnews2[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	rifling_small[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	th[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[1].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[2].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[3].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[4].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[5].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[6].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[7].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[8].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	thumbnail[9].jpg	Documents and Settings/Peter/Local Settings/Temporary Internet Files/Content.IE5/VED7PZWW/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Clear Day Bkgrd.jpg	Program Files/Common Files/Microsoft Shared/Stationery/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Fiesta Bkgrd.jpg	Program Files/Common Files/Microsoft Shared/Stationery/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Glacier Bkgrd.jpg	Program Files/Common Files/Microsoft Shared/Stationery/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Leaves Bkgrd.jpg	Program Files/Common Files/Microsoft Shared/Stationery/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Maize Bkgrd.jpg	Program Files/Common Files/Microsoft Shared/Stationery/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Nature Bkgrd.jpg	Program Files/Common Files/Microsoft Shared/Stationery/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Pie Charts Bkgrd.jpg	Program Files/Common Files/Microsoft Shared/Stationery/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Sunflower Bkgrd.jpg	Program Files/Common Files/Microsoft Shared/Stationery/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Sample1.jpg	Program Files/Movie Maker/Shared/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Sample2.jpg	Program Files/Movie Maker/Shared/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	stripe.jpg	WINDOWS/pchealth/helpctr/System/DVDUpgrd/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	greendot.jpg	WINDOWS/pchealth/helpctr/System/sysinfo/graphics/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bulzano.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	bulzanom.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	heidelb.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	heidelbm.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	paris.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	parism.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	pisa.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	pisam.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	prague.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	praguem.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	tyrol.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	tyrolm.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	venice.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	venicem.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	verona.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	veronam.jpg	WINDOWS/system32/oobe/html/mouse/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	backdown.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	backoff.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	backover.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	backup.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	mslogo.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	newbtm1.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	newbtm8.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	newmark1.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	newmark8.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	newtop1.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	newtop8.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	nextdown.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	nextoff.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	nextover.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	nextup.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	oemcoa.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	skipdown.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	skipoff.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	skipover.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	skipup.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	wpaback.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	wpabtm.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	wpaflag.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	wpakey.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	wpatop.jpg	WINDOWS/system32/oobe/images/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Ascent.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Autumn.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Azul.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Crystal.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Follow.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Friend.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Home.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Moon flower.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Peace.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Power.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Purple flower.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Radiance.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Red moon desert.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Ripple.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Stonehenge.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Tulips.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Vortec space.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Wind.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	Windows XP.jpg	WINDOWS/Web/Wallpaper/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_road.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_road_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_road_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_robust.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_robust_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_robust_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_secure.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_secure_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	best_secure_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_data.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_data_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_data_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_multiple.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_multiple_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_multiple_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_networks.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_networks_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_networks_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_wizard.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_wizard_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	connected_wizard_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	end_up.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	folder_up.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	gradient.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	icon_up.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img004b.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img014.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img074a.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	control_up.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	desktop_screen_shot.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	desktop_up.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img033.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img033a.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img034.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img089.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img100.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img109.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img110.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img116.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img121.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img123.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img126.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img136.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img046.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img060.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img068.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img072.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img149.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	intro_logo.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	logo.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	pen_icon.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	question_icon.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	read_icon.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_better.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_better_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_better_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_easier.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_faster_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_faster_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	start_up.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	taskbar_up.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	ul_logo.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	unlock_built.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	img040.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_easier_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_easier_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	safe_easy_faster.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	unlock_built_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	unlock_built_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	unlock_optimized.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	unlock_optimized_big.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	unlock_optimized_ghost.jpg	WINDOWS/Help/Tours/htmlTour/
+Z:\jkho On My Mac\images\xp-sp3-v4.img	0	no-set-name	jpg rule	find all jpg files	window_up.jpg	WINDOWS/Help/Tours/htmlTour/

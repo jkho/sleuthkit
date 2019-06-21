@@ -12,7 +12,7 @@
 #include <algorithm>
 
 #include "LogicalImagerFilenameRule.h"
-#include "TskHelper.h"
+#include "TskHelper/TskHelper.h"
 
 /*
 * Construct a filename rule.

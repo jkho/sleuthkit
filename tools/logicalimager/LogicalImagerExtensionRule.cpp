@@ -13,7 +13,7 @@
 #include <algorithm>
 
 #include "LogicalImagerExtensionRule.h"
-#include "TskHelper.h"
+#include "TskHelper/TskHelper.h"
 
 /*
 * Construct a file extension rule.

@@ -18,7 +18,7 @@
 
 #include "RegistryAnalyzer.h"
 #include "tsk/tsk_tools_i.h"
-#include "TskHelper.h"
+#include "TskHelper/TskHelper.h"
 #include "RegHiveType.h"
 #include "RegParser.h"
 #include "RegistryLoader.h"

@@ -1,0 +1,7 @@
+UserName	FullName	UserDomain	HomeDir	AccountType	AdminPriv	DateCreated	LastLoginDate	LastFailedLoginDate	LastPasswordResetDate	LoginCount	AccountLocation	isDisabled	accountStatus
+Administrator		local		Regular	Yes	2012-01-20T17:10:41.000000000Z	Unknown	Unknown	2012-01-20T17:19:14.000000000Z	0	local	0	Enabled
+Guest		local		Limited	No	2012-01-20T17:10:41.000000000Z	Unknown	Unknown	Unknown	0	local	1	Disabled
+HelpAssistant	Remote Desktop Help Assistant Account	local		Regular	No	2012-01-20T22:19:57.000000000Z	Unknown	Unknown	2012-01-20T22:19:57.000000000Z	0	local	1	Disabled
+SUPPORT_388945a0	CN=Microsoft Corporation,L=Redmond,S=Washington,C=US	local		Regular	No	2012-01-20T22:20:35.000000000Z	Unknown	Unknown	2012-01-20T22:20:35.000000000Z	0	local	1	Disabled
+John		local		Regular	Yes	2012-01-20T22:25:42.000000000Z	2012-03-10T19:44:33.000000000Z	Unknown	2012-01-20T22:25:42.000000000Z	38	local	0	Enabled
+Peter		local		Regular	Yes	2012-01-20T22:25:42.000000000Z	2012-03-22T23:29:54.000000000Z	Unknown	2012-01-20T22:25:42.000000000Z	2	local	0	Enabled

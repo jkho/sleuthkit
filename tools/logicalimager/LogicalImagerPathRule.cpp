@@ -13,7 +13,7 @@
 #include <regex>
 
 #include "LogicalImagerPathRule.h"
-#include "TskHelper.h"
+#include "TskHelper/TskHelper.h"
 
 /* case insensitive user folder prefixes */
 static char *userFolderRegex = "/?(documents and settings|users|home)/[^/]+";

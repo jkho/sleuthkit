@@ -10,7 +10,7 @@
 
 #pragma once
 
-#include "TskHelper.h"
+#include "TskHelper/TskHelper.h"
 
 namespace ERRORTYPE {
     enum Enum {

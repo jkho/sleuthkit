@@ -31,8 +31,8 @@
 #include "LogicalImagerConfiguration.h"
 #include "LogicalImagerRuleSet.h"
 #include "TskFindFiles.h"
-#include "TskHelper.h"
-#include "RegistryAnalyzer.h"
+#include "TskHelper/TskHelper.h"
+#include "tsk/registry/RegistryAnalyzer.h"
 
 std::wstring GetLastErrorStdStrW();
 std::string GetErrorStdStr(DWORD err);

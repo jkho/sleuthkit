@@ -12,7 +12,7 @@
 #include <sstream>
 
 #include "RegistryLoader.h"
-#include "TskHelper.h"
+#include "TskHelper/TskHelper.h"
 
 /** Responsible for loading and caching registry hives for the various modules that will need it. */
 
