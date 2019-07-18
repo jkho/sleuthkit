@@ -9,6 +9,7 @@
  **
  */
 
+#include <chrono>
 #include <iostream>
 #include <conio.h>
 #include <string>
@@ -40,6 +41,10 @@ std::string GetErrorStdStr(DWORD err);
 std::wstring GetErrorStdStrW(DWORD err);
 
 static TSK_TCHAR *progname;
+
+bool writeVHD = true;
+std::string directoryPath;
+int fileCounter = 1;
 
 static std::wstring_convert<std::codecvt_utf8_utf16<wchar_t>> converter;
 
@@ -777,7 +782,7 @@ static void alert(const std::string driveName, TSK_RETVAL_ENUM extractStatus, co
         fullPath += "name is null";
     }
 
-    fprintf(stdout, "Alert for %s:%s\n",
+    fprintf(stdout, "Alert for %s: %s\n",
         ruleMatchResult->getRuleSetName().c_str(),
         fullPath.c_str());
 }
@@ -801,6 +806,13 @@ static TSK_RETVAL_ENUM extractFile(TSK_FS_FILE *fs_file) {
     TSK_OFF_T offset = 0;
     size_t bufferLen = 16 * 1024;
     char buffer[16 * 1024];
+    FILE *file = (FILE *)NULL;
+    std::string filename;
+
+    if (!writeVHD) {
+        filename = directoryPath + "/f-" + std::to_string(fileCounter++) + (char *)PathFindExtensionA(fs_file->name->name);
+        file = fopen(filename.c_str(), "wb");
+    }
 
     while (true) {
         ssize_t bytesRead = tsk_fs_file_read(fs_file, offset, buffer, bufferLen, TSK_FS_FILE_READ_FLAG_NONE);
@@ -817,11 +829,22 @@ static TSK_RETVAL_ENUM extractFile(TSK_FS_FILE *fs_file) {
         else if (bytesRead == 0) {
             return TSK_ERR;
         }
+        if (!writeVHD && file) {
+            size_t bytesWritten = fwrite((const void *) buffer, sizeof(char), bytesRead, file);
+            if (bytesWritten != bytesRead) {
+                fprintf(stderr, "ERROR: extractFile failed: %s\n", filename.c_str());
+            }
+        }
         offset += bytesRead;
         if (offset >= fs_file->meta->size) {
             break;
         }
     }
+
+    if (!writeVHD && file) {
+        fclose(file);
+    }
+
     return TSK_OK;
 }
 
@@ -861,6 +884,9 @@ static void usage() {
 int
 main(int argc, char **argv1)
 {
+    std::chrono::time_point<std::chrono::system_clock> start, end;
+    start = std::chrono::system_clock::now();
+
     TSK_IMG_TYPE_ENUM imgtype = TSK_IMG_TYPE_DETECT;
 
     int ch;
@@ -892,7 +918,7 @@ main(int argc, char **argv1)
 #endif
     progname = argv[0];
 
-    while ((ch = GETOPT(argc, argv, _TSK_T("c:i:vV"))) > 0) {
+    while ((ch = GETOPT(argc, argv, _TSK_T("c:i:vVs"))) > 0) {
         switch (ch) {
         case _TSK_T('?'):
         default:
@@ -915,6 +941,10 @@ main(int argc, char **argv1)
         case _TSK_T('i'):
             imgPath = OPTARG;
             iFlagUsed = TRUE;
+            break;
+
+        case _TSK_T('s'):
+            writeVHD = false;
             break;
 
         }
@@ -959,7 +989,7 @@ main(int argc, char **argv1)
     }
 
     // create a directory with hostname_timestamp
-    std::string directoryPath;
+    //std::string directoryPath;
     if (createDirectory(directoryPath) == -1) {
         fprintf(stderr, "Failed to create directory %s\n", directoryPath.c_str());
         handleExit(1, promptBeforeExit);
@@ -992,17 +1022,18 @@ main(int argc, char **argv1)
             handleExit(1, promptBeforeExit);
         }
 
-        if (img->itype == TSK_IMG_TYPE_RAW) {
-            if (tsk_img_writer_create(img, (TSK_TCHAR *)outputFileNameW.c_str()) == TSK_ERR) {
-                tsk_error_print(stderr);
-                fprintf(stderr, "Failed to initialize VHD writer\n");
-                handleExit(1, promptBeforeExit);
+        if (writeVHD) {
+            if (img->itype == TSK_IMG_TYPE_RAW) {
+                if (tsk_img_writer_create(img, (TSK_TCHAR *)outputFileNameW.c_str()) == TSK_ERR) {
+                    tsk_error_print(stderr);
+                    fprintf(stderr, "Failed to initialize VHD writer\n");
+                    handleExit(1, promptBeforeExit);
+                }
+            }
+            else {
+                fprintf(stderr, "Image is not a RAW image, VHD will not be created\n");
             }
         }
-        else {
-            fprintf(stderr, "Image is not a RAW image, VHD will not be created\n");
-        }
-
 
         imgFinalizePending.push_back(std::make_pair(img, driveToProcess));
 
@@ -1102,5 +1133,14 @@ main(int argc, char **argv1)
         delete config;
     }
     printDebug("Exiting");
+
+    end = std::chrono::system_clock::now();
+
+    std::chrono::duration<double> elapsed_seconds = end - start;
+    std::time_t end_time = std::chrono::system_clock::to_time_t(end);
+
+    std::cout << "finished computation at " << std::ctime(&end_time)
+        << "elapsed time: " << elapsed_seconds.count() << "s\n";
+    
     handleExit(0, promptBeforeExit);
 }
