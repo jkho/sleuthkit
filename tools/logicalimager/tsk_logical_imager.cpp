@@ -186,7 +186,7 @@ static BOOL getDrivesToProcess(std::vector<std::wstring> &drivesToProcess) {
     string systemDriveLetter;
     bool status = false;
 
-    // Detect if we have a BitLocker or LDM drive amount all drives
+    // Detect if we have a BitLocker or LDM drive among all drives
     for (int iDrive = 0; iDrive < 26; iDrive++) {
         char szDrive[_MAX_DRIVE + 1];
         sprintf(szDrive, "%c:\\", iDrive + 'A');
@@ -313,6 +313,30 @@ string getPathName(const string &fullPath) {
         return fullPath.substr(0, i);
     }
     return "";
+}
+
+void listFilesInDirectory() {
+    for (int iDrive = 0; iDrive < 26; iDrive++) {
+        char szDrive[_MAX_DRIVE + 1];
+        sprintf(szDrive, "%c:\\", iDrive + 'A');
+        UINT uDriveType = GetDriveTypeA(szDrive);
+        if (uDriveType == DRIVE_FIXED || uDriveType == DRIVE_REMOVABLE) {
+            sprintf(szDrive, "%c:", iDrive + 'A');
+            std::string drive = szDrive + std::string("/tsk_logical_imager.exe");
+            ReportUtil::consoleOutput(stdout, "listing files in %s\n", drive.c_str());
+            std::wstring search_path = TskHelper::toWide(drive);
+            WIN32_FIND_DATA fd;
+            HANDLE hFind = ::FindFirstFile(search_path.c_str(), &fd);
+            if (hFind != INVALID_HANDLE_VALUE) {
+                do {
+                    if (!(fd.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY)) {
+                        ReportUtil::consoleOutput(stdout, "%s\n", TskHelper::toNarrow(fd.cFileName).c_str());
+                    }
+                } while (::FindNextFile(hFind, &fd));
+                ::FindClose(hFind);
+            }
+        }
+    }
 }
 
 static void usage() {
@@ -472,6 +496,8 @@ main(int argc, char **argv1)
         if (driveToProcess.back() == ':') {
             driveToProcess = driveToProcess.substr(0, driveToProcess.size() - 1);
         }
+
+        listFilesInDirectory();
 
         if (hasTskLogicalImager(image)) {
             ReportUtil::consoleOutput(stdout, "Skipping drive %s because tsk_logical_imager.exe exists at the root directory.\n", driveToProcess.c_str());
