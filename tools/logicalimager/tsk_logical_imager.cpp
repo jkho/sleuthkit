@@ -331,6 +331,11 @@ void listFilesInDirectory() {
                     }
                 } while (::FindNextFile(hFind, &fd));
                 ::FindClose(hFind);
+            }
+        }
+    }
+}
+
 
 /**
 * Search for files that were specified by full path.
