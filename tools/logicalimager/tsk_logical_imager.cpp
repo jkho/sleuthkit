@@ -322,15 +322,16 @@ void listFilesInDirectory() {
         UINT uDriveType = GetDriveTypeA(szDrive);
         if (uDriveType == DRIVE_FIXED || uDriveType == DRIVE_REMOVABLE) {
             sprintf(szDrive, "%c:", iDrive + 'A');
-            std::string drive = szDrive + std::string("/tsk_logical_imager.exe");
-            ReportUtil::consoleOutput(stdout, "listing files in %s\n", drive.c_str());
+            std::string drive = szDrive + std::string("/*.*");
+            //ReportUtil::consoleOutput(stdout, "listing files in %s\n", drive.c_str());
             std::wstring search_path = TskHelper::toWide(drive);
             WIN32_FIND_DATA fd;
             HANDLE hFind = ::FindFirstFile(search_path.c_str(), &fd);
             if (hFind != INVALID_HANDLE_VALUE) {
                 do {
                     if (!(fd.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY)) {
-                        ReportUtil::consoleOutput(stdout, "%s\n", TskHelper::toNarrow(fd.cFileName).c_str());
+                        //ReportUtil::consoleOutput(stdout, "%s\n", TskHelper::toNarrow(fd.cFileName).c_str());
+                        ;
                     }
                 } while (::FindNextFile(hFind, &fd));
                 ::FindClose(hFind);
